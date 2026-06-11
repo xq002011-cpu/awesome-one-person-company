@@ -100,6 +100,7 @@ Free, ready-to-use systems for running a one-person company. (See [`/templates`]
 
 ## Legal & Finance
 
+- **[LLC Class](https://llcclass.com/wyoming)** — Wyoming LLC registration for non-US founders. One-stop service including [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — built so solo founders outside the US can start accepting Stripe and Mercury payments. Starting at $199.
 - **[Stripe Atlas](https://stripe.com/atlas)** — Incorporate a US company and open a bank account remotely.
 - **[Doola](https://www.doola.com/)** / **[Firstbase](https://www.firstbase.io/)** — Company formation and compliance for solo founders.
 - **[Wise](https://wise.com/)** — Multi-currency banking for international solo businesses.

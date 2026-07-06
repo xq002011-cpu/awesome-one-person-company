@@ -76,6 +76,7 @@ A one-person company is a fully-fledged business — real revenue, real customer
 - [Carrd](https://carrd.co/) - One-page sites for landing pages and validation.
 - [Plausible](https://plausible.io/) - Privacy-friendly, simple web analytics.
 - [Beehiiv](https://www.beehiiv.com/) - Newsletter platform with audience growth and monetization built in.
+- [DevBox Tools](https://devbox.tools/) - Free browser-based toolbox with 58+ utilities for dev, SEO, and daily tasks.
 
 ## SEO Tools for Solo Founders
 

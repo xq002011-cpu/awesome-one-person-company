@@ -122,7 +122,9 @@ Free, ready-to-use systems for running a one-person company.
 - [Stripe Atlas](https://stripe.com/atlas) - Incorporate a US company and open a bank account remotely.
 - [Doola](https://www.doola.com/) - Company formation and compliance for solo founders.
 - [Wise](https://wise.com/) - Multi-currency banking for international solo businesses.
+- [SmartBizCalc](https://smartbizcalc.com/) - Free financial calculators for solo founders: startup costs, break-even, profit margins, payroll, cash flow, and 200+ more.
 
 ---
 
 Maintained by the team at One Person Company · made with [Tycoon.us](https://tycoon.us)
+

@@ -122,6 +122,7 @@ Free, ready-to-use systems for running a one-person company.
 - [Stripe Atlas](https://stripe.com/atlas) - Incorporate a US company and open a bank account remotely.
 - [Doola](https://www.doola.com/) - Company formation and compliance for solo founders.
 - [Wise](https://wise.com/) - Multi-currency banking for international solo businesses.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser-based invoice/receipt PDF generator for solo founders and one-person companies. [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-one-person-company-v1) with white-label PDFs, six templates, and CSV batch CLI. No account required.
 
 ---
 

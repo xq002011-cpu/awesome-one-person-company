@@ -67,6 +67,7 @@ A one-person company is a fully-fledged business — real revenue, real customer
 - [n8n](https://n8n.io/) - Open-source workflow automation to wire tools together without a developer.
 - [Zapier](https://zapier.com/) - No-code automation across thousands of apps.
 - [Cursor](https://cursor.com/) - AI-native code editor for solo builders shipping software.
+- [Hermes](https://www.buildwithhermes.com/) - AI voice agents that answer and place calls under your own brand, with CRM and campaigns built in.
 
 ## Operating Tools
 

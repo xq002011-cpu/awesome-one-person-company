@@ -104,6 +104,7 @@ Free, ready-to-use systems for running a one-person company.
 - [Weekly Review Template](https://github.com/xq002011-cpu/awesome-one-person-company/blob/main/templates/weekly-review.md) - A 30-minute weekly operating cadence to stay on top of metrics, pipeline, and priorities.
 - [Content Calendar Template](https://github.com/xq002011-cpu/awesome-one-person-company/blob/main/templates/content-calendar.md) - A simple system for planning, batching, and shipping content consistently.
 - [Email Marketing for a One-Person Business](https://onepersoncompany.com/email-marketing-one-person-business-2026) - A free playbook for running a newsletter and lifecycle email solo.
+- **[FollowerKaufen.ch content planner (German XLSX)](https://followerkaufen.ch/resources/de_CH/content-planner.xlsx)** — Free manual content calendar with 30 planning slots for dates, topics, formats, key messages and review notes, plus a clearly labelled fictional example.
 
 ## Case Studies & Income Reports
 

@@ -85,6 +85,7 @@ A one-person company is a fully-fledged business — real revenue, real customer
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Desktop crawler with a free tier for technical site audits.
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free keyword volume and competition data via Google Ads.
 - [One Person Company SEO Playbooks](https://onepersoncompany.com/seo-playbooks) - Step-by-step organic-growth playbooks written for teams of one.
+- [MessGEO](https://messgeo.com/) - Tracks how a brand appears in ChatGPT, Gemini, Copilot, Google AI Mode and AI Overviews, with 25 free credits on signup and paid plans after.
 
 ## Free Marketing Resources
 

@@ -114,6 +114,7 @@ Free, ready-to-use systems for running a one-person company.
 ## Distribution & Growth
 
 - [Product Hunt](https://www.producthunt.com/) - Launch platform for new products.
+- [MEDIAPRONET](https://mediapronet.com/) - Curated directory where solo founders can list a new product.
 - [awesome-indie](https://github.com/mezod/awesome-indie) - Companion list of resources for independent developers making money.
 - [awesome-directories](https://github.com/marketingtoolsdb/awesome-directories) - Submission targets to seed early backlinks and referral traffic.
 

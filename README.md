@@ -92,6 +92,7 @@ A one-person company is a fully-fledged business — real revenue, real customer
 - [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) - Free fundamentals of digital marketing.
 - [Canva](https://www.canva.com/) - Free design tool for social posts, ads, and content graphics.
 - [Buffer](https://buffer.com/) - Free tier for scheduling and publishing social content.
+- [twtData X trends archive](https://twtdata.com/twitter-trends/) - Free archive of X trends by location, for choosing topics to post about.
 - [Really Good Emails](https://reallygoodemails.com/) - Searchable gallery of real email marketing examples.
 - [One Person Marketing Plan](https://onepersoncompany.com/one-person-marketing-plan) - A free, actionable marketing plan template for solo founders.
 - [Solopreneur Inbound Marketing Guide](https://onepersoncompany.com/solopreneur-inbound-marketing-guide) - Free guide to building inbound, compounding traffic as a team of one.

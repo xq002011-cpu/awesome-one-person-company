@@ -104,6 +104,7 @@ Free, ready-to-use systems for running a one-person company.
 - [Weekly Review Template](https://github.com/xq002011-cpu/awesome-one-person-company/blob/main/templates/weekly-review.md) - A 30-minute weekly operating cadence to stay on top of metrics, pipeline, and priorities.
 - [Content Calendar Template](https://github.com/xq002011-cpu/awesome-one-person-company/blob/main/templates/content-calendar.md) - A simple system for planning, batching, and shipping content consistently.
 - [Email Marketing for a One-Person Business](https://onepersoncompany.com/email-marketing-one-person-business-2026) - A free playbook for running a newsletter and lifecycle email solo.
+- **[Freelance Client Onboarding Toolkit](https://github.com/AHMEDFOUAAD/freelance-client-onboarding-toolkit)** — Free qualification SOP, technical scope questionnaire, kickoff checklist, and Python floor-rate calculator for solo client-service businesses.
 
 ## Case Studies & Income Reports
 

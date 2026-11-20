@@ -63,6 +63,7 @@ A one-person company is a fully-fledged business — real revenue, real customer
 
 - [ChatGPT](https://chat.openai.com/) - General-purpose assistant for drafting, research, and coding.
 - [Claude](https://claude.ai/) - Long-context assistant strong at writing, analysis, and agentic workflows.
+- [DDScore](https://www.ddscore.ai/for-founder/) - Cross-checks pitch decks and supporting documents to help founders find evidence gaps before fundraising.
 - [Perplexity](https://www.perplexity.ai/) - AI search with citations for fast research.
 - [n8n](https://n8n.io/) - Open-source workflow automation to wire tools together without a developer.
 - [Zapier](https://zapier.com/) - No-code automation across thousands of apps.
